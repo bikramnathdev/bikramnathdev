@@ -13,7 +13,6 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -34,18 +33,18 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittalsam98&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikramnathdev&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsam98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikramnathdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
 <br/>
 
 
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=mittalsam98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bikram's github activity graph](https://activity-graph.herokuapp.com/graph?username=bikramnathdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
@@ -54,17 +53,17 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 ## Connect with me:
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mittalsam98">
+<a href="https://github.com/bikramnathdev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bikramnathdev">
 </a>
-<a href="https://github.com/mittalsam98?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bikramnathdev?tab=followers"><img src="https://img.shields.io/github/followers/bikramnathdev?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-# buy-me-a-coffee
+<!-- # buy-me-a-coffee
 
-Liked some of my work? Buy me a coffee (or more likely a beer)
+Liked some of my work? Buy me a coffee (or more likely a beer) -->
 
-<a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> -->
 <!--
 **mittalsam98/mittalsam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
